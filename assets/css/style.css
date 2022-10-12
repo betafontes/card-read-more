@@ -25,6 +25,8 @@ body {
     text-align: justify;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.389);
     position: relative;
+    transition: all 1s ease-in-out;
+    height: 600px;
 }
 
 .card::before {
@@ -49,6 +51,7 @@ body {
     height: 215px;
     overflow: hidden;
     position: relative;
+    transition: all 1s ease-in-out;
 }
 
 .content::before {
@@ -102,8 +105,12 @@ body {
     transition: all 0.4s ease-in-out;
 }
 
-.card.active .content {
-    height: auto;
+.content {
+    height: 480px;
+}
+
+.card.active {
+    height: 880px;
 }
 
 .card.active .content::before {
