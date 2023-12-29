@@ -11,6 +11,6 @@ In this repository I created a simple card containing a read more and less to ac
 - JavaScript
 
 #### 🔹 Project Layout:
-https://betafontes.github.io/card-read-more/
+
 ![image](https://user-images.githubusercontent.com/70981960/195160142-3feeadd5-b6db-4f91-80cd-e8ecfa6b2318.png)
 
