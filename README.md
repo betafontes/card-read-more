@@ -1,16 +1,40 @@
-# Card Read More and Less 📇
+<h1 align="center">Card Leia Mais 📇</h1>
 
-#### 🔹 About this Project:
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-In this repository I created a simple card containing a read more and less to acquire knowledge with my JavaScript studies
+<br>
 
-#### 🔹 Technologies Used:
+## 🚀 Tecnologias
+
+Esse repositório contém essas tais tecnologias :
 
 - HTML
 - CSS
 - JavaScript
 
-#### 🔹 Project Layout:
+## 💻 Projeto
+
+Neste repositório criei um cartão simples contendo um leia mais e menos para adquirir conhecimento com meus estudos de JavaScript
+
+
+## 🖼️ Layout
+
 
 ![image](https://user-images.githubusercontent.com/70981960/195160142-3feeadd5-b6db-4f91-80cd-e8ecfa6b2318.png)
+
+
+
+
+
+
+
+
+
+<hr>
+
+Feito com ♥ by betafontes :wave: 
+
 
